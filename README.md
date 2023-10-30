@@ -1,1 +1,7 @@
-# django_movie_theater
+## Django Movie Theater
+
+**Collaborators:**
+
+**GitHub usernames:**
+
+**Emails:**
